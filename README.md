@@ -1,5 +1,5 @@
 <!--
-author:   Your Name
+author:   Luca Bochnia
 
 email:    your@mail.org
 
@@ -21,7 +21,8 @@ translation: Deutsch  translations/German.md
 translation: Français translations/French.md
 -->
 
-# Course Main Title
+# Neuer Titel
+
 
 This is your **course** initialization stub.
 
